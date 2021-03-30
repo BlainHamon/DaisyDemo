@@ -1,0 +1,14 @@
+{
+  "name": "Scaleworx Graphics",
+  "keywords": "graphics",
+  "description": "Arduino library for layering graphics to render to one or more devices",
+  "homepage": "https://github.com/BlainHamon/Scaleworx_LEDGroup",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/BlainHamon/Scaleworx_Graphics"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
